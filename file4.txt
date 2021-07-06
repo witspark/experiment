@@ -1,3 +1,5 @@
 File4.txt added locally.
 
 This line was added in feature-2 branch.
+
+Another modification in feature-2 branch.
